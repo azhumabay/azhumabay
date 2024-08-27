@@ -1,5 +1,6 @@
 ## Hi there.👋
-I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub profile! Here, you'll find my latest projects, skills, and ways to connect with me.
+I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub profile! 
+<!-- Here, you'll find my latest projects, skills, and ways to connect with me. -->
 
 🔭 Currently working on:
 <ul>
