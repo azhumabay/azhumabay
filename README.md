@@ -17,14 +17,12 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
 🚀 Always learning:
 <ul>
   <li>Diving deeper into advanced JavaScript concepts and React ecosystem.</li>
-  <li>Exploring backend technologies to become a full-stack developer.</li>
 </ul>
 
 👨‍💻 What I've accomplished:
 <ul>
   <li>Built several small projects using HTML, CSS, and JavaScript.</li>
   <li>Created a TODO list application with CRUD functionality and localStorage integration.</li>
-  <li>Implemented various custom features, such as modals and task management interfaces.</li>
 </ul>
 
 🎯 Future Goals:
