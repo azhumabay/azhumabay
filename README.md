@@ -4,14 +4,17 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
 
 🔭 Currently working on:
 <ul>
-  <li>Mastering React and creating responsive web applications.</li>
+  <li>Mastering React</li>
 </ul>
 
 🌱 Skills and Technologies:
 <ul>
-  <li>Frontend: HTML, CSS, JavaScript, React</li>
-  <li>Tools: VS Code, Git</li>
-  <li>Styling: SCSS, responsive design principles</li>
+  <li>React</li>
+  <li>JavaScript</li>
+  <li>CSS (SCSS, Styled-Components)</li>
+  <li>State Management (Zustand, Redux Toolkit)</li>
+  <li>API integration (Axios)</li>
+  <li>Webpack: Vite</li>
 </ul>
 
 🚀 Always learning:
@@ -23,6 +26,7 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
 <ul>
   <li>Built several small projects using HTML, CSS, and JavaScript.</li>
   <li>Created a TODO list application with CRUD functionality and localStorage integration.</li>
+  <li>Rick and Morty API Project – Developed a frontend application using React, Zustand, and styled-components</li>
 </ul>
 
 🎯 Future Goals:
