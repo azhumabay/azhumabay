@@ -14,6 +14,7 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
   <li>CSS (SCSS, Styled-Components)</li>
   <li>State Management (Zustand)</li>
   <li>API integration (Axios)</li>
+  <li>Routing (React Router DOM)</li>
   <li>Webpack: Vite</li>
 </ul>
 
