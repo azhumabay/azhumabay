@@ -24,7 +24,7 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
 
 👨‍💻 What I've accomplished:
 <ul>
-  <li>Built several small projects using HTML, CSS, and JavaScript.</li>
+  <li>Built several projects.</li>
   <li>Created a TODO list application with CRUD functionality and localStorage integration.</li>
   <li>Rick and Morty API Project – Developed a frontend application using React, Zustand, and styled-components</li>
 </ul>
