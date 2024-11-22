@@ -12,7 +12,7 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
   <li>React</li>
   <li>JavaScript</li>
   <li>CSS (SCSS, Styled-Components)</li>
-  <li>State Management (Zustand, Redux Toolkit)</li>
+  <li>State Management (Zustand)</li>
   <li>API integration (Axios)</li>
   <li>Webpack: Vite</li>
 </ul>
