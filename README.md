@@ -9,9 +9,10 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
 
 🌱 Skills and Technologies:
 <ul>
-  <li>React</li>
-  <li>JavaScript</li>
+  <li>HTML</li>
   <li>CSS (SCSS, Styled-Components)</li>
+  <li>JavaScript</li>
+  <li>React</li>
   <li>State Management (Zustand)</li>
   <li>API integration (Axios)</li>
   <li>Routing (React Router DOM)</li>
