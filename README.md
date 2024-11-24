@@ -4,7 +4,7 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
 
 🔭 Currently working on:
 <ul>
-  <li>Mastering React</li>
+  <li>Mastering Redux</li>
 </ul>
 
 🌱 Skills and Technologies:
@@ -27,8 +27,6 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
 
 👨‍💻 What I've accomplished:
 <ul>
-  <li>Built several projects.</li>
-  <li>Created a TODO list application with CRUD functionality and localStorage integration.</li>
   <li>Rick and Morty API Project – Developed a frontend application using React, Zustand, and styled-components</li>
 </ul>
 
