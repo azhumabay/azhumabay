@@ -10,13 +10,14 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
 🌱 Skills and Technologies:
 <ul>
   <li>HTML</li>
-  <li>CSS (SCSS, Styled-Components)</li>
+  <li>CSS (SCSS)</li>
   <li>JavaScript</li>
   <li>React</li>
-  <li>State Management (Zustand)</li>
-  <li>API integration (Axios)</li>
-  <li>Routing (React Router DOM)</li>
-  <li>Webpack: Vite</li>
+  <li>State Management: Zustand / Redux </li>
+  <li>API integration: Axios </li>
+  <li>UI: Styled-Components, React Bootstrap </li>
+  <li>Routing: React Router DOM</li>
+  <li>Build Tools: Webpack, Vite</li>
 </ul>
 
 🚀 Always learning:
