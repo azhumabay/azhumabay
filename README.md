@@ -11,7 +11,7 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
 <ul>
   <li>HTML</li>
   <li>CSS (SCSS)</li>
-  <li>JavaScript</li>
+  <li>JavaScript / TypeScript</li>
   <li>React</li>
   <li>State Managers: Zustand / Redux (Redux Thunk) </li>
   <li>API integration: Axios </li>
@@ -32,7 +32,6 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
 
 🎯 Future Goals:
 <ul>
-  <li>Learn TypeScript to strengthen my JavaScript skills.</li>
   <li>Explore more advanced topics in React.</li>
 </ul>
 
