@@ -13,7 +13,7 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
   <li>CSS (SCSS)</li>
   <li>JavaScript / TypeScript</li>
   <li>React</li>
-  <li>State Managers: Zustand / Redux (Redux Thunk) </li>
+  <li>State Managers: Zustand / Redux (Redux Thunk) / Redux Toolkit </li>
   <li>API integration: Axios </li>
   <li>UI: Styled-Components, React Bootstrap </li>
   <li>Routing: React Router DOM</li>
