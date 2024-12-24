@@ -4,7 +4,7 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
 
 🔭 Currently working on:
 <ul>
-  <li>Mastering Redux</li>
+  <li>Mastering TypeScript</li>
 </ul>
 
 🌱 Skills and Technologies:
@@ -16,7 +16,7 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
   <li>State Managers: Zustand / Redux (Redux Thunk) / Redux Toolkit </li>
   <li>API integration: Axios </li>
   <li>UI: Styled-Components, React Bootstrap, CSS Module </li>
-  <li>Routing: React Router DOM</li>
+  <li>Routing: React Router</li>
   <li>Build Tools: Webpack, Vite</li>
 </ul>
 
@@ -26,13 +26,14 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
 </ul>
 
 👨‍💻 What I've accomplished:
-<ul>
-  <li>Rick and Morty API Project – Developed a frontend application using React, Zustand, and styled-components</li>
+<ul>  
+  <li>Rick and Morty API Project – Created a project using the Rick and Morty API. It allows users to interact with character, location, and episode data from the popular animated series.</li>  
+  <li>OpenWeather Project – Built an interactive weather application with real-time weather updates and a user-friendly interface.</li>  
 </ul>
 
 🎯 Future Goals:
 <ul>
-  <li>Explore more advanced topics in React.</li>
+  <li>Explore more advanced topics in React and TypeScript</li>
 </ul>
 
 <h2>Feel free to explore my projects or reach out if you'd like to collaborate!</h2>
