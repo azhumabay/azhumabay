@@ -4,7 +4,7 @@ I'm Alizhan, a passionate Frontend Developer in the making. Welcome to my GitHub
 
 🔭 Currently working on:
 <ul>
-  <li>Mastering TypeScript</li>
+  <li>Mastering TypeScript on TypeHero.dev </li>
 </ul>
 
 🌱 Skills and Technologies:
